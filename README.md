@@ -1,11 +1,13 @@
 # 📊 Summer Analytics 2025 – Projects Repository
 ### Author: Tvisha Bansal
-📖 Program Overview
+
+
+## 📖 Program Overview
 The Summer Analytics 2025 program, organized by the Consulting & Analytics Club × Pathway, is a structured learning initiative aimed at solving real-world analytics problems using Python, machine learning, and real-time processing.
 
 This repository contains all projects completed during the program, covering dynamic pricing, classification, customer segmentation, and real-time data streaming.
 
-🛠️ Tech Stack Used
+## 🛠️ Tech Stack Used
 Technology	Purpose
 Python	Primary programming language
 Pandas	Data manipulation and preprocessing
@@ -15,23 +17,23 @@ Pathway	Real-time data ingestion and processing
 Scikit-learn	Machine learning models (for some projects)
 Google Colab	Cloud-based development environment
 
-⚙️ Architecture Flow
+## ⚙️ Architecture Flow
 The projects follow a standardized architecture flow:
 
-General Workflow:
-Data Ingestion:
+### General Workflow:
+### Data Ingestion:
 
 Load dataset from CSV or simulate streaming using Pathway.
 
-Data Preprocessing:
+### Data Preprocessing:
 
 Clean missing values, encode categorical variables, normalize features.
 
-Feature Engineering:
+### Feature Engineering:
 
 Calculate occupancy rates, vehicle weights, traffic scores, NDVI indices (for other projects).
 
-Modeling:
+### Modeling:
 
 Pricing models (Linear, Demand-based, Competitive)
 
@@ -45,19 +47,19 @@ Stream data using Pathway’s real-time pipeline.
 
 Continuously update pricing based on incoming data.
 
-Visualization:
+### Visualization:
 
 Plot real-time price updates using Bokeh.
 
 Cluster analysis and classification visualizations for other projects.
 
-Insights & Reporting:
+### Insights & Reporting:
 
 Interpret pricing trends, clustering patterns, and model performance.
 
 Summarize results in a project-specific PDF report.
 
-🌐 Architecture Flow Diagram (Text-Based)
+## 🌐 Architecture Flow Diagram (Text-Based)
 
 +-----------------+      +-------------------+      +-----------------+      +-------------------+
 |                 |      |                   |      |                 |      |                   |
